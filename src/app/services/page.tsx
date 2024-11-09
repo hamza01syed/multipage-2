@@ -18,7 +18,7 @@ const Services = () => {
             </div>
             <div className="bg-gray-100 p-8 rounded shadow-md">
               <h3 className="text-xl font-semibold mb-3">SEO Optimization</h3>
-              <p>Boosting your website's search engine ranking with comprehensive SEO services.</p>
+              <p>Boosting your websites search engine ranking with comprehensive SEO services.</p>
             </div>
             <div className="bg-gray-100 p-8 rounded shadow-md">
               <h3 className="text-xl font-semibold mb-3">Content Creation</h3>
@@ -26,7 +26,7 @@ const Services = () => {
             </div>
             <div className="bg-gray-100 p-8 rounded shadow-md">
               <h3 className="text-xl font-semibold mb-3">Social Media Management</h3>
-              <p>Building and managing your brand’s presence on popular social media platforms.</p>
+              <p>Building and managing your brands presence on popular social media platforms.</p>
             </div>
             <div className="bg-gray-100 p-8 rounded shadow-md">
               <h3 className="text-xl font-semibold mb-3">Consulting</h3>
@@ -35,8 +35,8 @@ const Services = () => {
           </div>
         </div>
       </div>
-    );
-  };
+    )
+  }
   
-  export default Services;
+  export default Services
   

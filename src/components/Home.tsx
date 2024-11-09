@@ -46,7 +46,7 @@ const Home = () => {
             </div>
             <div className="bg-gray-100 p-8 rounded shadow-md">
               <h3 className="text-xl font-semibold mb-3">SEO Optimization</h3>
-              <p>Boost your website's visibility on search engines with our SEO expertise.</p>
+              <p>Boost your websites visibility on search engines with our SEO expertise.</p>
             </div>
           </div>
           
@@ -71,7 +71,7 @@ const Home = () => {
         </div>
       </section>
     </div>
-  );
-};
+  )
+}
 
-export default Home;
+export default Home

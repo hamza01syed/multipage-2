@@ -5,7 +5,7 @@ const Contact = () => {
         <div className="max-w-4xl mx-auto ">
           <h1 className="text-4xl font-bold text-center text-blue-600 mb-4">Contact Us</h1>
           <p className="text-lg text-gray-700 mb-8 text-center">
-            Have questions or want to discuss a project? Fill out the form below, and we'll get back to you soon.
+            Have questions or want to discuss a project? Fill out the form below, and we will get back to you soon.
           </p>
           <form className="bg-white p-8 rounded shadow-md max-w-lg mx-auto">
             <div className="mb-4">
@@ -26,8 +26,8 @@ const Contact = () => {
           </form>
         </div>
       </div>
-    );
-  };
+    )
+  }
   
-  export default Contact;
+  export default Contact
   
