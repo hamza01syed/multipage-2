@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="bg-blue-600 text-white p-4 ">
       <div className="container mx-auto flex justify-between items-center">
-        <Link href="/" className="text-xl font-bold">MyWebsite</Link>
+        <Link href="/" className="text-xl font-bold">MyWeb</Link>
         <div className="space-x-4">
           <Link href="/" className="hover:text-blue-300">Home</Link>
           <Link href="/about" className="hover:text-blue-300">About</Link>
