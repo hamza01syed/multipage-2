@@ -22,7 +22,7 @@ const Home = () => {
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl font-bold mb-4">About Us</h2>
           <p className="text-lg">
-            Our team is dedicated to delivering innovative and effective digital solutions that meet our clients' unique needs. 
+            Our team is dedicated to delivering innovative and effective digital solutions that meet our clients unique needs. 
             We specialize in web development, digital marketing, and more to help you achieve your business goals.
           </p>
         </div>
@@ -63,7 +63,7 @@ const Home = () => {
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl font-bold mb-4">Contact Us</h2>
           <p className="text-lg mb-8">
-            Have any questions? We'd love to hear from you. Get in touch with us today.
+            Have any questions? We would love to hear from you. Get in touch with us today.
           </p>
           <Link href="/contact" className="bg-teal-500 hover:bg-teal-400 text-white font-semibold px-6 py-3 rounded transition">
             Contact Us
